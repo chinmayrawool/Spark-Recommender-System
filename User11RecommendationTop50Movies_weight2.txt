@@ -1,0 +1,87 @@
+Users which have high cosine similarity value and atleast 10 common movies:
+(199, (0.9904186444015709, 16))
+(522, (0.9897486750362936, 11))
+(544, (0.9891062517402088, 10))
+(157, (0.9889474524292117, 11))
+(270, (0.9866743847153244, 10))
+(615, (0.9864372947650626, 11))
+(480, (0.9857587383739658, 10))
+(563, (0.9848719516306094, 10))
+(72, (0.9839001937359736, 10))
+(501, (0.9826837615931009, 11))
+(547, (0.9813517737762641, 17))
+(475, (0.9807961909750312, 14))
+(275, (0.9770009617398976, 14))
+(105, (0.9756789390351773, 10))
+(388, (0.9755887649073183, 12))
+(553, (0.9742423861300765, 10))
+(380, (0.9715513971725056, 16))
+(468, (0.9711809024623338, 16))
+(509, (0.9691516538617879, 10))
+(48, (0.9689501141101973, 10))
+(212, (0.9688066963228481, 13))
+(664, (0.9684046619575117, 17))
+(56, (0.9670069374747544, 13))
+(150, (0.9667358535829181, 10))
+(624, (0.9632074802528096, 19))
+(580, (0.9627948436944952, 15))
+(358, (0.9584532866458162, 10))
+(461, (0.9489951489478882, 10))
+(73, (0.9463696822972956, 25))
+(15, (0.9421721848960942, 23))
+(119, (0.9416612676932212, 10))
+(564, (0.9225604445496698, 14))
+(457, (0.8821529127980867, 18))
+Final List of Movies in descending order based on rating
+[(260, 5.0), (296, 5.0), (589, 5.0), (741, 5.0), (1080, 5.0), (1136, 5.0), (1196, 5.0), (1200, 5.0), (1210, 5.0), (1214, 5.0), (1617, 5.0), (2288, 5.0), (2571, 5.0), (2959, 5.0), (4226, 5.0), (33493, 5.0), (6, 4.5), (47, 4.5), (50, 4.5), (110, 4.5), (293, 4.5), (318, 4.5), (356, 4.5), (527, 4.5), (593, 4.5), (1036, 4.5), (1215, 4.5), (1270, 4.5), (1320, 4.5), (1590, 4.5), (1704, 4.5), (2664, 4.5), (2788, 4.5), (3147, 4.5), (3355, 4.5), (5378, 4.5), (6104, 4.5), (6807, 4.5), (8957, 4.5), (27728, 4.5), (44191, 4.5), (49272, 4.5), (55908, 4.5), (58559, 4.5), (59126, 4.5), (65133, 4.5), (70286, 4.5), (76251, 4.5), (83134, 4.5), (91529, 4.5)]
+Top 50 Recommendation:
+[u'Star Wars: Episode IV - A New Hope (1977)']
+[u'Pulp Fiction (1994)']
+[u'Terminator 2: Judgment Day (1991)']
+[u'Ghost in the Shell (K\xf4kaku kid\xf4tai) (1995)']
+[u"Monty Python's Life of Brian (1979)"]
+[u'Monty Python and the Holy Grail (1975)']
+[u'Star Wars: Episode V - The Empire Strikes Back (1980)']
+[u'Aliens (1986)']
+[u'Star Wars: Episode VI - Return of the Jedi (1983)']
+[u'Alien (1979)']
+[u'L.A. Confidential (1997)']
+[u'"Thing']
+[u'"Matrix']
+[u'Fight Club (1999)']
+[u'Memento (2000)']
+[u'Star Wars: Episode III - Revenge of the Sith (2005)']
+[u'Heat (1995)']
+[u'Seven (a.k.a. Se7en) (1995)']
+[u'"Usual Suspects']
+[u'Braveheart (1995)']
+[u'L\xe9on: The Professional (a.k.a. The Professional) (L\xe9on) (1994)']
+[u'"Shawshank Redemption']
+[u'Forrest Gump (1994)']
+[u"Schindler's List (1993)"]
+[u'"Silence of the Lambs']
+[u'Die Hard (1988)']
+[u'Army of Darkness (1993)']
+[u'Back to the Future (1985)']
+[u'Alien\xb3 (a.k.a. Alien 3) (1992)']
+[u'Event Horizon (1997)']
+[u'Good Will Hunting (1997)']
+[u'Invasion of the Body Snatchers (1956)']
+[u"Monty Python's And Now for Something Completely Different (1971)"]
+[u'"Green Mile']
+[u'"Ninth Gate']
+[u'Star Wars: Episode II - Attack of the Clones (2002)']
+[u'Monty Python Live at the Hollywood Bowl (1982)']
+[u"Monty Python's The Meaning of Life (1983)"]
+[u'Saw (2004)']
+[u'Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)']
+[u'V for Vendetta (2006)']
+[u'Casino Royale (2006)']
+[u'"Man from Earth']
+[u'"Dark Knight']
+[u'Religulous (2008)']
+[u'Blackadder Back & Forth (1999)']
+[u'District 9 (2009)']
+[u'Kick-Ass (2010)']
+[u'Tucker & Dale vs Evil (2010)']
+[u'"Dark Knight Rises']
